@@ -1,10 +1,18 @@
 Shopping List
 
+<<<<<<< HEAD
 red apples
 6 bananas
 vanilla yogurt
 2% milk
 wheat bread
+=======
+apples
+5 bananas
+yogurt
+milk
+bread
+>>>>>>> banananza
 cereal
 12 eggs
 bacon
